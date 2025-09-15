@@ -340,7 +340,6 @@ PRODUCT_PACKAGES += \
     libacdb-fts \
     libacdbrtac \
     libadiertac \
-    libadreno_app_profiles \
     libadreno_utils \
     libadsprpc \
     libaudcal \
